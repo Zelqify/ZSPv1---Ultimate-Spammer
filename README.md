@@ -13,3 +13,5 @@ Step 7: Program will close themself again you have to restart it.
 Step 8: Type start
 
 Now your spam should start. You can disable the spam by simply closing the app.
+
+Any questions? Feel free to dm me on Discord: Zelqify#5340 (if this doesnt work try Zelqify#0001)
